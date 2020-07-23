@@ -1,6 +1,6 @@
 # imagemin-pngquant [![Build Status](https://travis-ci.org/imagemin/imagemin-pngquant.svg?branch=master)](https://travis-ci.org/imagemin/imagemin-pngquant)
 
-使用淘宝镜像
+使用 [pngquant-bin-cn](https://github.com/woopen/pngquant-bin-cn)，淘宝镜像
 
 > [Imagemin](https://github.com/imagemin/imagemin) plugin for [`pngquant`](https://github.com/kornelski/pngquant)
 

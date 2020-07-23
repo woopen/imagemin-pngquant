@@ -23,6 +23,10 @@
 		"png",
 		"pngquant"
 	],
+	"publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
 	"dependencies": {
 		"execa": "^4.0.0",
 		"is-png": "^2.0.0",
