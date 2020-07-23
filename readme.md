@@ -1,12 +1,14 @@
 # imagemin-pngquant [![Build Status](https://travis-ci.org/imagemin/imagemin-pngquant.svg?branch=master)](https://travis-ci.org/imagemin/imagemin-pngquant)
 
+使用淘宝镜像
+
 > [Imagemin](https://github.com/imagemin/imagemin) plugin for [`pngquant`](https://github.com/kornelski/pngquant)
 
 
 ## Install
 
 ```
-$ npm install imagemin-pngquant
+$ npm install imagemin-pngquant-cn
 ```
 
 
